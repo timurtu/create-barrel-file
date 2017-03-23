@@ -1,5 +1,7 @@
 # Create Barrel File
 
+[![npm version](https://badge.fury.io/js/create-barrel-file.svg)](https://badge.fury.io/js/create-barrel-file)
+
 ## What's a barrel file?
 
 A barrel file is an `index.js` that exports everything from a directory. This allows us to import __named exports__ directly from that directory instead of referencing the filename.
