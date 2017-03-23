@@ -1,3 +1,3 @@
-export * from './one.js'
-export * from './three.js'
-export * from './two.js'
+export * from './one'
+export * from './three'
+export * from './two'
